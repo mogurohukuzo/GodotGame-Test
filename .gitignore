@@ -1,0 +1,15 @@
+# Godot 4.x の自動生成キャッシュ（絶対にGitに入れない）
+.godot/
+.import/
+
+# エクスポート時の個人設定ファイル
+export_presets.cfg
+
+# ビルド（書き出し）されたゲームファイル
+*.exe
+*.apk
+*.pck
+*.dmg
+*.app/
+
+addons/
